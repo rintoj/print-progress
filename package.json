@@ -1,6 +1,6 @@
 {
   "name": "print-progress",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Prints progress messages",
   "main": "src/print-progress.js",
   "dependencies": {
